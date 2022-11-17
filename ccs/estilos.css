@@ -17,3 +17,14 @@ body {
     font-size: 20px;
 
 }
+
+#post{
+    padding: 1em;
+}
+
+#cabecera{
+    background: rgb(190, 14, 14);
+    color: aliceblue;
+    margin: 0;
+    padding: 0.5em;
+}
