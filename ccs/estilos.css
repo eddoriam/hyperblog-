@@ -23,7 +23,11 @@ body {
 }
 
 #cabecera{
+<<<<<<< HEAD
     background: rgb(61, 14, 190);
+=======
+    background: rgb(14, 190, 152);
+>>>>>>> cabecera
     color: aliceblue;
     margin: 0;
     padding: 0.5em;
